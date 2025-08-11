@@ -7,7 +7,7 @@ Este é meu portfólio pessoal desenvolvido em HTML e CSS. O site apresenta minh
 ## Tecnologias usadas
 
 - HTML5
-- CSS3 (arquivo externo)
+- CSS3 
 
 ## Como rodar o projeto
 
@@ -19,15 +19,11 @@ Este é meu portfólio pessoal desenvolvido em HTML e CSS. O site apresenta minh
 ├── index.html
 ├── about.html
 ├── styles/
-│ └── style.css
+│   └── style.css
 └── assets/
-├── github.png
-├── linkedin.png
-└── imagem.png
-
-bash
-Copy
-Edit
+    ├── github.png
+    ├── linkedin.png
+    └── imagem.png
 
 ## Contato
 
